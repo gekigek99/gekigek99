@@ -7,7 +7,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=53654579)
 
 <p align="center" >
-    <a href="https://komarev.com" >
+    <a href="https://github.com/antonkomarev/github-profile-views-counter" >
       <img src="https://komarev.com/ghpvc/?username=gekigek99" >
     </a>
 </p>

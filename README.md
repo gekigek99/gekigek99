@@ -12,5 +12,10 @@ https://komarev.com/ghpvc/?username=gekigek99
     <a href="https://github.com/jstrieb/github-stats">
       <img src="https://github.com/gekigek99/github-stats/blob/master/generated/languages.svg">
     </a>
+    <!---
+    <a href="https://metrics.lecoq.io/insights?user=gekigek99">
+      <img src="https://metrics.lecoq.io/gekigek99?template=classic&lines=1&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FWarsaw">
+    </a>
+    --->
     <img src="https://hit.yhype.me/github/profile?user_id=53654579" width="0" height="0">
 </p>
